@@ -1,0 +1,30 @@
+.icon-right
+{
+position :absolute;
+right:10px;
+top:10px;
+
+}
+
+.icon-left
+{
+  position :absolute;
+  left:10px;
+  top:10px;
+
+}
+.SeasonDisplay
+{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100hv;
+
+
+}
+
+.border
+{
+border: 1px solid red;
+
+}
